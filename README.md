@@ -35,12 +35,21 @@
 - [Best Practices of Angular i18n](https://www.telerik.com/blogs/best-practices-angular-i18n)
 - [Angular Best Practices](https://github.com/evoytenkoapps/angular-best-practices)
 - [Best practices for a clean and performant Angular application](https://www.freecodecamp.org/news/best-practices-for-a-clean-and-performant-angular-application-288e7b39eb6f/)
-
+- [Best Practices for Angular i18n](https://www.telerik.com/blogs/best-practices-angular-i18n)
+- [Angular Component Library Best Practices](https://kevinkreuzer.medium.com/angular-component-library-best-practices-a8318bae6257)
+- [Angular Modules Best Practices 2021](https://dev.to/this-is-angular/angular-modules-best-practices-2021-3lo5)
+- [Angular modules: Best practices for structuring your app](https://blog.logrocket.com/angular-modules-best-practices-for-structuring-your-app/)
 
 ## API
 
 - [API Design best practices](https://devdojo.com/rahulism/api-design-best-practices)
 - [Best Practices to Secure Your API](https://dzone.com/articles/best-practices-to-secure-your-api)
+- [API Design Best Practices for long-running Operations: GraphQL vs REST](https://wundergraph.com/blog/api_design_best_practices_for_long_running_operations_graphql_vs_rest)
+- [API Security Best Practices](https://dev.to/bearer/api-security-best-practices-3gjl)
+- [API Authentication: Implementation of Best Practices](https://dzone.com/articles/api-authentication-implementation-of-best-practice)
+- [RESTful API Design: Best Practices](https://pragativerma18.hashnode.dev/restful-api-design-best-practices)
+- [API Key Best Practices and Examples](https://developer.okta.com/blog/2021/02/03/api-key-best-practices-and-examples)
+- [13 Best Practices for Building RESTful APIs](https://www.sitepoint.com/build-restful-apis-best-practices/)
 
 ## C#
 
@@ -73,7 +82,9 @@
 - [Flutter Best Practices](https://itnext.io/flutter-best-practices-part-1-e89467ea4823)
 - [17 Flutter Best Practices to Improve Performance](https://segmentfault.com/a/1190000041765080)
 - [Do's and Don'ts for performance best practices in Flutter/Dart](https://blog.logicwind.com/best-practices-in-dart-flutter/)
-
+- [Flutter Development Best Practices](https://heartbeat.comet.ml/flutter-development-best-practices-3e162765340a)
+- [The best practices in flutter app dev and design](https://flutterawesome.com/the-best-practices-in-flutter-app-dev-and-design/)
+- [Flutter logging best practices](https://blog.logrocket.com/flutter-logging-best-practices/)
 
 ## Git
 
@@ -81,10 +92,14 @@
 - [Follow These Best Practices for Using Git](https://www.thisdot.co/blog/follow-these-best-practices-for-using-git)
 - [Git Best Practices – How to Write Meaningful Commits, Effective Pull Requests, and Code Reviews](https://www.freecodecamp.org/news/git-best-practices-commits-and-code-reviews/)
 - [17 Git Best Practices](https://itnext.io/17-git-best-practices-1988c7306e6b)
+- [Git best practices: Workflows for GitOps deployments](https://developers.redhat.com/articles/2022/07/20/git-workflows-best-practices-gitops-deployments)
+- [7 Best Practices in GIT for Your Code Quality](https://dzone.com/articles/7-best-practices-in-git-for-your-code-quality)
+- 
 
 ## Go
 
 - [Best Practices For Writing Clean Interfaces in Go](https://medium.com/bootdotdev/best-practices-for-writing-clean-interfaces-in-go-d00a97f33e11)
+- [Write a Simple REST API in Golang](https://dev.to/lucasnevespereira/write-a-rest-api-in-golang-following-best-practices-pe9)
 
 ## HTML
 
@@ -95,6 +110,10 @@
 - [50 Efficient Code Samples for Java Programming](https://www.alibabacloud.com/blog/50-efficient-code-samples-for-java-programming_596122)
 - [Bad Practices With Synchronization](https://www.baeldung.com/java-synchronization-bad-practices)
 - [Define your coding standards for Java](https://www.promyze.com/define-your-coding-standards-for-java/) (🚀 )
+- [Best Practices for Java Developers](https://levelup.gitconnected.com/7-best-practices-for-java-developers-afa4d56a3954)
+- [15 Java Coding Best Practices for Beginners](https://xperti.io/blogs/java-coding-best-practices/)
+- [10 Best practices to design and implement a Java class](https://medium.com/javarevisited/10-best-practices-to-design-and-implement-a-java-class-489f72a7099a)
+- [A short summary of Java coding best practices](https://rhamedy.medium.com/a-short-summary-of-java-coding-best-practices-31283d0167d3)
 
 ## JavaScript
 
@@ -117,7 +136,6 @@
 
 
 
-
 ## Kotlin
 
 - [Idiomatic Kotlin. Best Practices.](https://phauer.com/2017/idiomatic-kotlin-best-practices/)
@@ -129,6 +147,7 @@
 - [18 best practices from Laravel](https://developpaper.com/eighteen-best-practices-from-laravel/)
 - [Laravel best practices](https://bestofphp.com/repo/alexeymezenin-laravel-best-practices-php-laravel-utilities)
 - [7 Best Practices in Laravel You Should Know](https://cerwyn.medium.com/7-best-practices-in-laravel-you-should-know-2ed9878293de)
+- [Laravel Best Practice](https://devdojo.com/alpdetails/laravel-best-practice-coding-standards-part-01)
 
 ## Misc
 
@@ -138,6 +157,7 @@
 - [Best Practices for Using JWT](https://blog.bitsrc.io/best-practices-for-using-jwt-df3788433fd3)
 - [Energy Smells for Android](https://olegoaer.perso.univ-pau.fr/android-energy-smells/index.html)
 - [Refactoring your code with no pain](https://www.promyze.com/8-tips-for-refactoring-the-code-with-no-pain/) (🚀 )
+- [Laravel Dusk Browser Testing: Best Practices & Tips](https://laravel-news.com/laravel-dusk-browser-testing-best-practices-and-tips)
 
 ## Next.js
 
