@@ -3,15 +3,15 @@
 ## table of contents
 
 - [Angular](#angular)
+- [API](#api)
 - [C#](#c)
 - [CSS](#css)
+- [Django](#django)
+- [Docker](#docker)
 - [Flutter](#flutter)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
-- [API](#api)
-- [Django](#django)
-- [Docker](#docker)
 - [Git](#git)
 - [Kotlin](#kotlin)
 - [Laravel](#laravel)
@@ -20,7 +20,6 @@
 - [PHP](#php)
 - [Python](#python)
 - [React](#react)
-- [Ruby](#ruby)
 - [Ruby](#ruby)
 - [SQL](#sql)
 - [Spring](#spring)
@@ -37,6 +36,12 @@
 - [Angular Best Practices](https://github.com/evoytenkoapps/angular-best-practices)
 - [Best practices for a clean and performant Angular application](https://www.freecodecamp.org/news/best-practices-for-a-clean-and-performant-angular-application-288e7b39eb6f/)
 
+
+## API
+
+- [API Design best practices](https://devdojo.com/rahulism/api-design-best-practices)
+- [Best Practices to Secure Your API](https://dzone.com/articles/best-practices-to-secure-your-api)
+
 ## C#
 
 - [5 (Important) Tips to Writing Clean C# Code](https://dev.to/dotnetsafer/5-tips-to-writing-clean-c-code-bjo)
@@ -52,12 +57,30 @@
 - [8 CSS selectors do’s and don’ts](https://medium.com/@albertjuhe/8-css-selectors-dos-and-don-ts-1e0d23fcf96c)
 - [12 CSS best practices](https://dev.to/pritampatil/12-css-best-practices-by-twitter-2fap)
 
+
+## Django
+
+- [The Best Practices That Will Make You Pro at Web Development with Django](https://python.plainenglish.io/django-best-practices-mistakes-7e7ae5dcf89c)
+
+## Docker
+
+- [Docker Best Practices](https://dzone.com/articles/docker-best-practices)
+- [Dockerfile Best Practices](https://github.com/dnaprawa/dockerfile-best-practices)
+
 ## Flutter
 
 - [10 Best Practices for Flutter Developers](https://medium.com/agoda-engineering/10-best-practices-for-flutter-developers-a8327c986433)
 - [Flutter Best Practices](https://itnext.io/flutter-best-practices-part-1-e89467ea4823)
 - [17 Flutter Best Practices to Improve Performance](https://segmentfault.com/a/1190000041765080)
 - [Do's and Don'ts for performance best practices in Flutter/Dart](https://blog.logicwind.com/best-practices-in-dart-flutter/)
+
+
+## Git
+
+- [Best Practices for Using Git](https://dzone.com/articles/best-practices-for-using-git)
+- [Follow These Best Practices for Using Git](https://www.thisdot.co/blog/follow-these-best-practices-for-using-git)
+- [Git Best Practices – How to Write Meaningful Commits, Effective Pull Requests, and Code Reviews](https://www.freecodecamp.org/news/git-best-practices-commits-and-code-reviews/)
+- [17 Git Best Practices](https://itnext.io/17-git-best-practices-1988c7306e6b)
 
 ## Go
 
@@ -92,26 +115,8 @@
 - [JavaScript Clean Coding Best Practices](https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/)
 - [30 JavaScript Best Practices for Beginners](https://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399)
 
-## API
 
-- [API Design best practices](https://devdojo.com/rahulism/api-design-best-practices)
-- [Best Practices to Secure Your API](https://dzone.com/articles/best-practices-to-secure-your-api)
 
-## Django
-
-- [The Best Practices That Will Make You Pro at Web Development with Django](https://python.plainenglish.io/django-best-practices-mistakes-7e7ae5dcf89c)
-
-## Docker
-
-- [Docker Best Practices](https://dzone.com/articles/docker-best-practices)
-- [Dockerfile Best Practices](https://github.com/dnaprawa/dockerfile-best-practices)
-
-## Git
-
-- [Best Practices for Using Git](https://dzone.com/articles/best-practices-for-using-git)
-- [Follow These Best Practices for Using Git](https://www.thisdot.co/blog/follow-these-best-practices-for-using-git)
-- [Git Best Practices – How to Write Meaningful Commits, Effective Pull Requests, and Code Reviews](https://www.freecodecamp.org/news/git-best-practices-commits-and-code-reviews/)
-- [17 Git Best Practices](https://itnext.io/17-git-best-practices-1988c7306e6b)
 
 ## Kotlin
 
