@@ -2,6 +2,7 @@
 
 ## table of contents
 
+- [Android](#android)
 - [Angular](#angular)
 - [API](#api)
 - [C#](#c)
@@ -13,7 +14,9 @@
 - [HTML](#html)
 - [Java](#java)
 - [Git](#git)
+- [GraphQL](#graphql)
 - [Kotlin](#kotlin)
+- [Kubernetes](#kubernetes)
 - [Laravel](#laravel)
 - [Misc](#misc)
 - [Next.js](#nextjs)
@@ -28,6 +31,13 @@
 - [Vue.js](#vuejs)
 
 ---
+## Android
+
+- [Energy Smells for Android](https://olegoaer.perso.univ-pau.fr/android-energy-smells/index.html)
+- [Android Development | Best Practices](https://medium.com/pen-bold-kiln-press/android-development-best-practices-ba0e511ca2f6)
+- [12 Best Practices For Android Development](https://www.geeksforgeeks.org/12-best-practices-for-android-development/)
+- [Best Practices for Android Development in 2022](https://mobisoftinfotech.com/resources/blog/best-practices-for-android-development/)
+- [Best Practices in Android Development](https://auth0.com/blog/best-practices-in-android-development/)
 
 ## Angular
 
@@ -39,6 +49,10 @@
 - [Angular Component Library Best Practices](https://kevinkreuzer.medium.com/angular-component-library-best-practices-a8318bae6257)
 - [Angular Modules Best Practices 2021](https://dev.to/this-is-angular/angular-modules-best-practices-2021-3lo5)
 - [Angular modules: Best practices for structuring your app](https://blog.logrocket.com/angular-modules-best-practices-for-structuring-your-app/)
+
+## Ansible
+
+- [44 Ansible Best Practices to Follow](https://spacelift.io/blog/ansible-best-practices)
 
 ## API
 
@@ -65,16 +79,30 @@
 - [CSS Best Practices — 16 Ways To Improve Your CSS Skills Quality](https://torquemag.io/2022/11/css-best-practices/)
 - [8 CSS selectors do’s and don’ts](https://medium.com/@albertjuhe/8-css-selectors-dos-and-don-ts-1e0d23fcf96c)
 - [12 CSS best practices](https://dev.to/pritampatil/12-css-best-practices-by-twitter-2fap)
+- [15 CSS3 Best practices of for beginners to pro](https://dev.to/menomanabdulla/15-css3-best-practices-of-for-beginners-to-pro-253d)
+- [Best Practice in CSS: Organisation and Naming Conventions](https://hackernoon.com/best-practice-in-css-organisation-and-naming-conventions-4d103ujy)
 
+
+## Cypress
+
+- [Cypress Best Practices For Test Automation](https://www.lambdatest.com/blog/cypress-best-practices/)
 
 ## Django
 
 - [The Best Practices That Will Make You Pro at Web Development with Django](https://python.plainenglish.io/django-best-practices-mistakes-7e7ae5dcf89c)
+- [Django 4.0.4 Best Practices Tutorial](https://ayat.hashnode.dev/django-404-best-practices-tutorial-part-1)
+- [Best Practices of Configuring Django Settings](https://itnext.io/best-practices-of-configuring-django-settings-85e5e770f54b)
+- [Django Models: Basics and Best Practices](https://dev.to/pragativerma18/django-models-basics-and-best-practices-49e4)
 
 ## Docker
 
 - [Docker Best Practices](https://dzone.com/articles/docker-best-practices)
 - [Dockerfile Best Practices](https://github.com/dnaprawa/dockerfile-best-practices)
+- [Best Practices Around Production Ready Web Apps with Docker Compose](https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose)
+- [6 Docker Compose Best Practices for Dev and Prod](https://prod.releasehub.com/blog/6-docker-compose-best-practices-for-dev-and-prod)
+- [Best Practices for Writing a Dockerfile](https://blog.bitsrc.io/best-practices-for-writing-a-dockerfile-68893706c3)
+- [Config best practices: Docker layer caching](https://circleci.com/blog/config-best-practices-docker-layer-caching/)
+- [Docker Tips And Best Practices](https://dev.to/unfor19/docker-tips-and-best-practices-n9)
 
 ## Flutter
 
@@ -100,6 +128,15 @@
 
 - [Best Practices For Writing Clean Interfaces in Go](https://medium.com/bootdotdev/best-practices-for-writing-clean-interfaces-in-go-d00a97f33e11)
 - [Write a Simple REST API in Golang](https://dev.to/lucasnevespereira/write-a-rest-api-in-golang-following-best-practices-pe9)
+
+## GraphQL
+- [GraphQL Best Practices](https://towardsdatascience.com/graphql-best-practices-3fda586538c4)
+- [9 GraphQL Security Best Practices](https://escape.tech/blog/9-graphql-security-best-practices/)
+- [GraphQL best practices for GraphQL schema design](https://atheros.ai/blog/graphql-best-practices-for-graphql-schema-design)
+- [GraphQL Security Best practices](https://crashtest-security.com/graphql-security-vulnerabilities/)
+- [GraphQL development best practices](https://help.totaralearning.com/display/DEV/GraphQL+development+best+practices)
+- [GraphQL API Design Best Practices: a summary of “Lessons from 4 years of GraphQL” by Lee Byron](https://lessw.medium.com/graphql-api-design-best-practices-a-summary-from-4-years-of-graphql-by-lee-byron-9fb8a82fa89e)
+- [GraphQL Best Practices](https://blog.back4app.com/graphql-best-practices/)
 
 ## HTML
 
@@ -141,6 +178,18 @@
 - [Idiomatic Kotlin. Best Practices.](https://phauer.com/2017/idiomatic-kotlin-best-practices/)
 - [Kotlin — How to write code more readable and Clean, Best practices](https://premsinghsodha7.medium.com/kotlin-how-to-write-code-more-readable-and-clean-best-practices-ac6cac160f3d)
 
+## Kubernetes
+
+- [Kubernetes Best Practices](https://itnext.io/kubernetes-best-practices-d2bfb6fe3c19)
+- [Best practices for developing on Kubernetes](https://itnext.io/best-practices-for-developing-on-kubernetes-8fbdbba12538)
+- [5 Best Practices for Deploying Kubernetes](https://techbeacon.com/enterprise-it/5-best-practices-deploying-kubernetes)
+- [15 Kubernetes Best Practices Every Developer Should Know](https://spacelift.io/blog/kubernetes-best-practices)
+- [Top 20 Kubernetes Best Practices](https://www.eweek.com/cloud/kubernetes-best-practices/)
+- [Kubernetes Best Practices](https://www.densify.com/kubernetes-tools/kubernetes-best-practices)
+- [Kubernetes Security Best Practices: 10 Steps to Securing K8s](https://www.aquasec.com/cloud-native-academy/kubernetes-in-production/kubernetes-security-best-practices-10-steps-to-securing-k8s/)
+- [10 Kubernetes Best Practices for Better Container Orchestration](https://geekflare.com/kubernetes-best-practices/)
+- [7 Kubernetes Best Practices](https://www.plural.sh/blog/7-kubernetes-best-practices/)
+
 ## Laravel
 
 - [Laravel the right way](https://github.com/laraveltherightway/laraveltherightway.github.io/tree/master/_posts)
@@ -148,16 +197,15 @@
 - [Laravel best practices](https://bestofphp.com/repo/alexeymezenin-laravel-best-practices-php-laravel-utilities)
 - [7 Best Practices in Laravel You Should Know](https://cerwyn.medium.com/7-best-practices-in-laravel-you-should-know-2ed9878293de)
 - [Laravel Best Practice](https://devdojo.com/alpdetails/laravel-best-practice-coding-standards-part-01)
-
+- [Laravel Dusk Browser Testing: Best Practices & Tips](https://laravel-news.com/laravel-dusk-browser-testing-best-practices-and-tips)
+- 
 ## Misc
 
 - [9 Best Practices for Optimizing Frontend Performance](https://blog.bitsrc.io/9-best-practices-for-optimizing-frontend-loading-time-763211621061)
 - [Front-End Guidelines](https://github.com/bendc/frontend-guidelines)
 - [Best Practices For Securing Web Applications in 2021](https://blog.devgenius.io/best-practices-for-securing-web-applications-in-2021-96eac657e7d6)
-- [Best Practices for Using JWT](https://blog.bitsrc.io/best-practices-for-using-jwt-df3788433fd3)
-- [Energy Smells for Android](https://olegoaer.perso.univ-pau.fr/android-energy-smells/index.html)
 - [Refactoring your code with no pain](https://www.promyze.com/8-tips-for-refactoring-the-code-with-no-pain/) (🚀 )
-- [Laravel Dusk Browser Testing: Best Practices & Tips](https://laravel-news.com/laravel-dusk-browser-testing-best-practices-and-tips)
+- [Best Practices for Using JWT](https://blog.bitsrc.io/best-practices-for-using-jwt-df3788433fd3)
 
 ## Next.js
 
@@ -170,12 +218,17 @@
 - [6 Best Practices to Improve Node.js Security](https://blog.bitsrc.io/6-best-practices-to-improve-node-js-security-d5796381b019)
 - [Node.js Best Practices for Beginners and Experts Alike](https://javascript.plainenglish.io/node-js-best-practices-for-beginners-and-experts-alike-49a1f67318ce)
 - [Setup Mocha in watch mode for TDD in Node.js](https://www.promyze.com/setup-mocha-in-watch-mode-for-tdd-in-node-js/) (🚀 )
+- [Logging: Best Practices for Node.JS Applications](https://blog.bitsrc.io/logging-best-practices-for-node-js-applications-8a0a5969b94c)
+- [Best practices for Node.js process management with PM2](https://blog.logrocket.com/best-practices-nodejs-process-management-pm2/)
+- [NodeJS: Best Practices for Production](https://www.freecodecamp.org/news/nodejs-best-practices-for-production-5b173983d14b)
+- [Node.js best practices list (July 2021)](https://dev.to/alexandrefreire/node-js-best-practices-list-july-2021-3p4k)
+- [Best Practices For Securing Web Applications in 2021](https://blog.devgenius.io/best-practices-for-securing-web-applications-in-2021-96eac657e7d6)
 
 ## PHP
 
 - [Security Best Practices in PHP](https://sweetcode.io/security-best-practices-in-php/)
 - [Defensive Programming PHP Best Practices](http://bestpractices.thecodingmachine.com/php/defensive_programming.html)
-
+- [Tips and Best Practices for Optimizing PHP Code to Improve Performance](https://hackernoon.com/tips-and-best-practices-for-optimizing-php-code-to-improve-performance)
 ## Python
 
 - [Common anti-patterns in Python](https://deepsource.io/blog/8-new-python-antipatterns/)
@@ -216,19 +269,33 @@
 ## Ruby
 
 - [Rspec best practices](https://github.com/abinoda/rspec-best-practices)
+- [8 tricks and best practices for improving your Ruby code](https://www.educative.io/blog/ruby-best-practices)
+- [Ruby best practices beginners should know](https://deepsource.io/blog/ruby-dev-best-practices-for-beginners/)
+- [Ruby Best Practices and Tips](https://www.toptal.com/ruby/tips-and-practices)
+- [Top 10 Ruby security best practices](https://blog.sqreen.com/ruby-security-best-practices/)
+
 
 ## SQL
 
 - [5 Best Practices for writing SQL queries](https://www.sqlshack.com/5-best-practices-for-writing-sql-queries/)
 - [SQL Performance Best Practices](https://www.cockroachlabs.com/blog/sql-performance-best-practices/)
+- [Best Practices For Writing SQL Queries](https://www.c-sharpcorner.com/blogs/best-practices-for-writing-sql-queries)
 
 ## Spring
 
 - [Top 10 best practices while building applications using Spring framework](https://roytuts.com/best-practices-while-building-applications-using-spring-framework/)
+- [Spring Boot Best Practices for Developers](https://www.javastackflow.com/2022/09/spring-boot-best-practices-for.html)
+- [Spring best practices](https://www.endoflineblog.com/spring-best-practices)
+- [16 Best Practices for Spring Boot in Production](https://www.springcloud.io/post/2022-08/springboot-best-practices/#gsc.tab=0)
+
 
 ## Terraform
 
 - [Terraform Best Practices](https://www.terraform-best-practices.com/)
+- [Terraform's Best Practices and Pitfalls](https://thenewstack.io/terraforms-best-practices-and-pitfalls/)
+- [Terraform Best Practices](https://www.terraform-best-practices.com/)
+- [Terraform - Best Practices](https://medium.com/devops-mojo/terraform-best-practices-top-best-practices-for-terraform-configuration-style-formatting-structure-66b8d938f00c)
+- [10 Terraform Best Practices: For Secure & Fast Infrastructure](https://dev.to/loujaybee/10-terraform-best-practices-for-secure-fast-infrastructure-5c7i)
 
 ## TypeScript
 
@@ -247,6 +314,10 @@
 - [Vue.js Best Practices You Should Adopt](https://javascript.plainenglish.io/vue-js-best-practices-you-should-adopt-3f3b3a8abace)
 - [Style Guide](https://v2.vuejs.org/v2/style-guide/?redirect=true)
 - [How not to Vue](https://itnext.io/how-not-to-vue-18f16fe620b5?gi=46fa2d7befe0)
+- [4 Best Practices for Large Scale Vue.js Projects](https://blog.bitsrc.io/4-best-practices-for-large-scale-vue-js-projects-9a533450bdb2)
+- [Vuex best practices](https://dev.to/timothyokooboh/vuex-best-practices-45dd)
+- [Best practices for loading fonts in Vue](https://blog.logrocket.com/best-practices-for-loading-fonts-in-vue/)
+- [Best Practices for Writing Vue.js](https://sweetcode.io/best-practices-for-writing-vue-js/)
 
 ---
 
