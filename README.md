@@ -1,5 +1,17 @@
 # awesome-coding-practices
 
+Here at [Promyze](https://promyze.com), we're big into sharing knowledge.
+
+We regularly publish best coding practices and host live sessions.
+
+More recently, we released [bestcodingpractices.dev](https://bestcodingpractices.dev), an open, resourceful place where you can discover best coding practices.
+
+This repo is a (non-exhaustive) list of resources full of best coding practices for Docker, Git, Python, React, SQL, and more. 
+
+Enjoy!
+
+Oh, and we welcome [contributions](#contributing).
+
 ## table of contents
 
 - [Android](#android)
