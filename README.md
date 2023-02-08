@@ -1,5 +1,7 @@
 # awesome-coding-practices
 
+![Best coding practices](https://raw.githubusercontent.com/promyze/best-coding-practices/69c12241d9fd76c99d45f400a33e6a961ac6ce70/bestcodingpractices-v2.jpg)
+
 Here at [Promyze](https://promyze.com), we're big into sharing knowledge.
 
 We regularly publish best coding practices and host live sessions.
