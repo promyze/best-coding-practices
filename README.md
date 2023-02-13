@@ -95,7 +95,7 @@ Oh, and we welcome [contributions](#contributing).
 - [12 CSS best practices](https://dev.to/pritampatil/12-css-best-practices-by-twitter-2fap)
 - [15 CSS3 Best practices of for beginners to pro](https://dev.to/menomanabdulla/15-css3-best-practices-of-for-beginners-to-pro-253d)
 - [Best Practice in CSS: Organisation and Naming Conventions](https://hackernoon.com/best-practice-in-css-organisation-and-naming-conventions-4d103ujy)
-
+- [CSS Best Practices and Advice for beginners](https://dev.to/joelbonetr/css-and-scss-best-practices-3h6a)
 
 ## Cypress
 
@@ -117,6 +117,7 @@ Oh, and we welcome [contributions](#contributing).
 - [Best Practices for Writing a Dockerfile](https://blog.bitsrc.io/best-practices-for-writing-a-dockerfile-68893706c3)
 - [Config best practices: Docker layer caching](https://circleci.com/blog/config-best-practices-docker-layer-caching/)
 - [Docker Tips And Best Practices](https://dev.to/unfor19/docker-tips-and-best-practices-n9)
+- [Dockerfile Best Practices for Developers](https://dev.to/pavanbelagatti/dockerfile-best-practices-for-developers-mh2)
 
 ## Flutter
 
@@ -127,6 +128,7 @@ Oh, and we welcome [contributions](#contributing).
 - [Flutter Development Best Practices](https://heartbeat.comet.ml/flutter-development-best-practices-3e162765340a)
 - [The best practices in flutter app dev and design](https://flutterawesome.com/the-best-practices-in-flutter-app-dev-and-design/)
 - [Flutter logging best practices](https://blog.logrocket.com/flutter-logging-best-practices/)
+- [Flutter: Best Practices and Tips](https://medium.com/flutter-community/flutter-best-practices-and-tips-7c2782c9ebb5)
 
 ## Git
 
@@ -151,6 +153,7 @@ Oh, and we welcome [contributions](#contributing).
 - [GraphQL development best practices](https://help.totaralearning.com/display/DEV/GraphQL+development+best+practices)
 - [GraphQL API Design Best Practices: a summary of “Lessons from 4 years of GraphQL” by Lee Byron](https://lessw.medium.com/graphql-api-design-best-practices-a-summary-from-4-years-of-graphql-by-lee-byron-9fb8a82fa89e)
 - [GraphQL Best Practices](https://blog.back4app.com/graphql-best-practices/)
+- [GraphQL Resolvers: Best Practices](https://medium.com/paypal-tech/graphql-resolvers-best-practices-cd36fdbcef55)
 
 ## HTML
 
@@ -212,7 +215,8 @@ Oh, and we welcome [contributions](#contributing).
 - [7 Best Practices in Laravel You Should Know](https://cerwyn.medium.com/7-best-practices-in-laravel-you-should-know-2ed9878293de)
 - [Laravel Best Practice](https://devdojo.com/alpdetails/laravel-best-practice-coding-standards-part-01)
 - [Laravel Dusk Browser Testing: Best Practices & Tips](https://laravel-news.com/laravel-dusk-browser-testing-best-practices-and-tips)
-- 
+- [Tips & best practices for Laravel 8](https://faun.pub/pushing-laravel-further-best-tips-good-practices-for-laravel-5-7-ac97305b8cac)
+
 ## Misc
 
 - [9 Best Practices for Optimizing Frontend Performance](https://blog.bitsrc.io/9-best-practices-for-optimizing-frontend-loading-time-763211621061)
@@ -243,6 +247,7 @@ Oh, and we welcome [contributions](#contributing).
 - [Security Best Practices in PHP](https://sweetcode.io/security-best-practices-in-php/)
 - [Defensive Programming PHP Best Practices](http://bestpractices.thecodingmachine.com/php/defensive_programming.html)
 - [Tips and Best Practices for Optimizing PHP Code to Improve Performance](https://hackernoon.com/tips-and-best-practices-for-optimizing-php-code-to-improve-performance)
+
 ## Python
 
 - [Common anti-patterns in Python](https://deepsource.io/blog/8-new-python-antipatterns/)
@@ -310,6 +315,7 @@ Oh, and we welcome [contributions](#contributing).
 - [Terraform Best Practices](https://www.terraform-best-practices.com/)
 - [Terraform - Best Practices](https://medium.com/devops-mojo/terraform-best-practices-top-best-practices-for-terraform-configuration-style-formatting-structure-66b8d938f00c)
 - [10 Terraform Best Practices: For Secure & Fast Infrastructure](https://dev.to/loujaybee/10-terraform-best-practices-for-secure-fast-infrastructure-5c7i)
+- [Terraform Best Practices](https://dev.to/cryptic022/terraform-best-practices-2a1n)
 
 ## TypeScript
 
@@ -332,6 +338,7 @@ Oh, and we welcome [contributions](#contributing).
 - [Vuex best practices](https://dev.to/timothyokooboh/vuex-best-practices-45dd)
 - [Best practices for loading fonts in Vue](https://blog.logrocket.com/best-practices-for-loading-fonts-in-vue/)
 - [Best Practices for Writing Vue.js](https://sweetcode.io/best-practices-for-writing-vue-js/)
+- [VueJs best practices](https://medium.com/@riccardopolacci/vue-js-best-practices-c5da8d7af48d) 
 
 ---
 
