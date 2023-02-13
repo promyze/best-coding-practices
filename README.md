@@ -138,7 +138,7 @@ Oh, and we welcome [contributions](#contributing).
 - [17 Git Best Practices](https://itnext.io/17-git-best-practices-1988c7306e6b)
 - [Git best practices: Workflows for GitOps deployments](https://developers.redhat.com/articles/2022/07/20/git-workflows-best-practices-gitops-deployments)
 - [7 Best Practices in GIT for Your Code Quality](https://dzone.com/articles/7-best-practices-in-git-for-your-code-quality)
-- 
+
 
 ## Go
 
