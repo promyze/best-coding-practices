@@ -312,7 +312,6 @@ Oh, and we welcome [contributions](#contributing).
 
 - [Terraform Best Practices](https://www.terraform-best-practices.com/)
 - [Terraform's Best Practices and Pitfalls](https://thenewstack.io/terraforms-best-practices-and-pitfalls/)
-- [Terraform Best Practices](https://www.terraform-best-practices.com/)
 - [Terraform - Best Practices](https://medium.com/devops-mojo/terraform-best-practices-top-best-practices-for-terraform-configuration-style-formatting-structure-66b8d938f00c)
 - [10 Terraform Best Practices: For Secure & Fast Infrastructure](https://dev.to/loujaybee/10-terraform-best-practices-for-secure-fast-infrastructure-5c7i)
 - [Terraform Best Practices](https://dev.to/cryptic022/terraform-best-practices-2a1n)
