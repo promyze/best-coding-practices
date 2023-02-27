@@ -284,6 +284,7 @@ Oh, and we welcome [contributions](#contributing).
 - [Best practices for styling React native](https://antoinemesnil.hashnode.dev/best-practices-for-styling-react-native-apps)
 - [Best Coding Practices in ReactJS](https://dzone.com/articles/best-coding-practices-in-reactjs)
 - [Optimization Techniques and Best Practices for React Application](https://vinayds.hashnode.dev/optimization-techniques-and-best-practices-for-react-application)
+- [React JS Best Practices](https://initjs.org/react-js-best-practices-fbd180e665b2)
 
 ## Ruby
 
