@@ -63,6 +63,7 @@ Oh, and we welcome [contributions](#contributing).
 - [Angular Component Library Best Practices](https://kevinkreuzer.medium.com/angular-component-library-best-practices-a8318bae6257)
 - [Angular Modules Best Practices 2021](https://dev.to/this-is-angular/angular-modules-best-practices-2021-3lo5)
 - [Angular modules: Best practices for structuring your app](https://blog.logrocket.com/angular-modules-best-practices-for-structuring-your-app/)
+- [Adopting the Best Practices in Angular Development in 2023](https://levelup.gitconnected.com/adopting-the-best-practices-in-angular-development-77b572a680d3)
 
 ## Ansible
 
